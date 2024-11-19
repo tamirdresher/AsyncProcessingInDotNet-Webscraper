@@ -1,0 +1,6 @@
+@InfiniteDepthWebSite_HostAddress = http://localhost:5051
+
+GET {{InfiniteDepthWebSite_HostAddress}}/Home/
+Accept: application/json
+
+###
